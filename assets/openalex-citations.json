@@ -1,0 +1,111 @@
+{
+  "schema_version": 1,
+  "source": "OpenAlex",
+  "author_id": "A5020131961",
+  "author_url": "https://openalex.org/authors/A5020131961",
+  "orcid": "0009-0004-1196-2069",
+  "updated_at": "2026-10-29",
+  "profile": {
+    "works_count": 16,
+    "cited_by_count": 69,
+    "h_index": 4,
+    "i10_index": 2
+  },
+  "selected_count": 12,
+  "selected_citations": 69,
+  "verified_citation_count": 12,
+  "verified_doi_count": 9,
+  "evidence": "Author-provided OpenAlex profile screenshot, 29 October 2026: 16 works, 69 citations, h-index 4, i10-index 2; 12 curated works display individual counts. OpenAlex profile totals still include four works intentionally excluded from this website. Work IDs not yet individually verified stay null and are resolved during API synchronization.",
+  "excluded_from_website_work_ids": [
+    "W7164740585",
+    "W7164741971",
+    "W7163534578",
+    "W4407871675"
+  ],
+  "works": {
+    "10.1007/978-3-031-42782-4_6": {
+      "openalex_id": "W4386699649",
+      "openalex_url": "https://openalex.org/works/W4386699649",
+      "cited_by_count": 7,
+      "verified_at": "2026-10-29",
+      "evidence": "Work citation count transcribed from user-supplied OpenAlex author screenshot (29 Oct 2026), matched to the selected record by title."
+    },
+    "10.1007/978-3-031-62520-6_36": {
+      "openalex_id": null,
+      "openalex_url": null,
+      "cited_by_count": 1,
+      "verified_at": "2026-10-29",
+      "evidence": "Work citation count transcribed from user-supplied OpenAlex author screenshot (29 Oct 2026), matched to the selected record by title."
+    },
+    "10.1007/978-3-031-62520-6_37": {
+      "openalex_id": null,
+      "openalex_url": null,
+      "cited_by_count": 1,
+      "verified_at": "2026-10-29",
+      "evidence": "Work citation count transcribed from user-supplied OpenAlex author screenshot (29 Oct 2026), matched to the selected record by title."
+    },
+    "10.1007/978-3-032-06494-3_52": {
+      "openalex_id": "W4414673977",
+      "openalex_url": "https://openalex.org/works/W4414673977",
+      "cited_by_count": 0,
+      "verified_at": "2026-10-29",
+      "evidence": "Work citation count transcribed from user-supplied OpenAlex author screenshot (29 Oct 2026), matched to the selected record by title."
+    },
+    "10.1109/atee58038.2023.10108220": {
+      "openalex_id": "W4367308679",
+      "openalex_url": "https://openalex.org/works/W4367308679",
+      "cited_by_count": 10,
+      "verified_at": "2026-10-29",
+      "evidence": "Work citation count transcribed from user-supplied OpenAlex author screenshot (29 Oct 2026), matched to the selected record by title."
+    },
+    "10.1109/ehb50910.2020.9280192": {
+      "openalex_id": null,
+      "openalex_url": null,
+      "cited_by_count": 28,
+      "verified_at": "2026-10-29",
+      "evidence": "Work citation count transcribed from user-supplied OpenAlex author screenshot (29 Oct 2026), matched to the selected record by title."
+    },
+    "10.1109/ehb55594.2022.9991389": {
+      "openalex_id": "W4313525425",
+      "openalex_url": "https://openalex.org/works/W4313525425",
+      "cited_by_count": 4,
+      "verified_at": "2026-10-29",
+      "evidence": "Work citation count transcribed from user-supplied OpenAlex author screenshot (29 Oct 2026), matched to the selected record by title."
+    },
+    "10.1109/ehb55594.2022.9991502": {
+      "openalex_id": "W4313526347",
+      "openalex_url": "https://openalex.org/works/W4313526347",
+      "cited_by_count": 2,
+      "verified_at": "2026-10-29",
+      "evidence": "Work citation count transcribed from user-supplied OpenAlex author screenshot (29 Oct 2026), matched to the selected record by title."
+    },
+    "10.1109/ehb55594.2022.9991710": {
+      "openalex_id": "W4313525360",
+      "openalex_url": "https://openalex.org/works/W4313525360",
+      "cited_by_count": 9,
+      "verified_at": "2026-10-29",
+      "evidence": "Work citation count transcribed from user-supplied OpenAlex author screenshot (29 Oct 2026), matched to the selected record by title."
+    },
+    "10.1109/ehb55594.2022.9991718": {
+      "openalex_id": "W4313525277",
+      "openalex_url": "https://openalex.org/works/W4313525277",
+      "cited_by_count": 4,
+      "verified_at": "2026-10-29",
+      "evidence": "Work citation count transcribed from user-supplied OpenAlex author screenshot (29 Oct 2026), matched to the selected record by title."
+    },
+    "10.1109/ehb64556.2024.10805675": {
+      "openalex_id": "W4405804224",
+      "openalex_url": "https://openalex.org/works/W4405804224",
+      "cited_by_count": 0,
+      "verified_at": "2026-10-29",
+      "evidence": "Work citation count transcribed from user-supplied OpenAlex author screenshot (29 Oct 2026), matched to the selected record by title."
+    },
+    "10.3390/s26031027": {
+      "openalex_id": "W7127570473",
+      "openalex_url": "https://openalex.org/works/W7127570473",
+      "cited_by_count": 3,
+      "verified_at": "2026-10-29",
+      "evidence": "Work citation count transcribed from user-supplied OpenAlex author screenshot (29 Oct 2026), matched to the selected record by title."
+    }
+  }
+}
